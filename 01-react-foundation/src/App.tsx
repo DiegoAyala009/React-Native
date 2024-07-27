@@ -6,7 +6,9 @@
 
 import {
   // Counter,
-  CounterWithHook
+  // CounterWithHook,
+  // LoginPage,
+  UserPage
 } from "./components"
 
 function App() {
@@ -15,13 +17,14 @@ function App() {
     <main>
 
       <h1>Introducción a TS - React </h1>
-
       {/* Aquí */}
       {/* <BasicTypes /> */}
       {/* <ObjectLiterals /> */}
       {/* <BasicFunctions /> */}
       {/* <Counter /> */}
-      <CounterWithHook />
+      {/* <CounterWithHook /> */}
+      {/* <LoginPage /> */}
+    <UserPage />
 
     </main>
       
